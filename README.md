@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlvaroSilva94
-- 👀 I’m interested in: C++, C#, Python and Bash
-- 🌱 I’m currently learning: Advanced C#
-- 🌱 I’ll be learning next: C# and .NET (Continue)
+- 👀 I’m interested in: Automation, Python, Bash and Ansible
+- 🌱 I’m currently learning: Terraform
+- 🌱 I’ll be learning next: perfecting knowledge in DevOps tools
 - 💞️ I’m looking to collaborate on: Everything that is open source
 - 📫 How to reach me: alvaro.ma.silva@outlook.com
 
